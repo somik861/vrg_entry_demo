@@ -8,3 +8,6 @@ __pycache__
 build*/
 CMakeUserPresets.json
 
+# run artifacts
+*.svg
+
